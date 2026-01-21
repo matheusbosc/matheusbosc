@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a horror game based on Backrooms lore.<br>👯 I’m looking to collaborate on many projects in the future<br>🌱 I'm currently completing the CS50 Python course and planning on taking a few other courses to expand my knowledge.<br>⚡ Fun fact: I've been programming since I was 10.
+🔭 I’m currently working on a horror game with an original story.<br>👯 I’m looking to collaborate on many projects in the future<br>⚡ Fun fact: I've been programming since I was 10.
 
 
 # 💻 Tech Stack:
